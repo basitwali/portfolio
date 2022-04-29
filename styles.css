@@ -1,0 +1,18 @@
+main {
+    background-color: aquamarine;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-div {
+    background-color: beige;
+}
+
+.mid-div {
+    background-color:blanchedalmond;
+}
+
+.footer {
+    background-color: brown;
+}
